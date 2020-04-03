@@ -5,11 +5,11 @@
 
 This problem is asking to find out if the given number is happy or not.
 
-How we define if number is happy or not, will copy-paste from the problem statement itself as the process is so clear:
+How we define if the number is happy or not, will copy-paste from the problem statement itself as the process is so clear:
 
-> _Starting with any positive integer, replace the number by the sum of the squares of its digits, and repeat the process until the number equals 1 (where it will stay), or it loops endlessly in a cycle which does not include 1. Those numbers for which this process ends in 1 are happy numbers._
+> _Starting with any positive integer, replace the number by the sum of the squares of its digits and repeat the process until the number equals 1 (where it will stay), or it loops endlessly in a cycle which does not include 1. Those numbers for which this process ends in 1 are happy numbers._
 
-I hope it is clear! so we take number and we keep replacing the number with the sum of the squares of it is digits until we end up with **1** so it is **happy** if it keeps looping and giving numbers already found before so it is **not happy**.
+I hope it is clear! so we take the number and we keep replacing the number with the sum of the squares of it is digits until we end up with **1** so it is **happy** if it keeps looping and giving numbers already found before so it is **not happy**.
 
 **Example:**
 
@@ -28,13 +28,13 @@ I hope it is clear! so we take number and we keep replacing the number with the 
   Not equal to 1 and didn't saw it before, continue
   > number = 1<sup>2</sup> + 0<sup>2</sup> + 0<sup>2</sup> = 36 + 64 = 1
 
-  Oooh this is equal to **1** so we are done and number **19** is a **happy** number.
+  Oooh, this is equal to **1** so we are done and number **19** is a **happy** number.
 
 > **Try this number (58) with yourself and see if it is happy or not so you can understand the procedure very-well.**
 
 **Pseudocode:**
 
-From above we can see we need loop to keep going and sum the number digits every-time when we going to stop when we find a number that we already saw before, even if it is **1** if we try it again like in the above example:
+From above we can see we need a loop to keep going and sum the number digits every-time when we going to stop when we find a number that we already saw before, even if it is **1** if we try it again like in the above example:
  > number = 1 = 1<sup>2</sup> = 1
 
  Which we already saw before so we stop looping and return our answer.

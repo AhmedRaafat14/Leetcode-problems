@@ -2,7 +2,7 @@
 
 #### Solution using [bit manipulation](https://www.interviewbit.com/courses/programming/topics/bit-manipulation/):
 
-This problem asks you to find the single (unique) number that exist in a list within linear time which means **O(n)** with another optional requirements which is without extra memory means space complexity **O(1)**.
+This problem asks you to find the single (unique) number that exists in a list within a linear time which means **O(n)** with another optional requirement which is without extra memory means space complexity **O(1)**.
 
 We could solve it using hash-map in **O(n)** it will be good no issue, but I want to get from the first time with no extra memory this is when it came to my mind the bit manipulation idea and couldn't find better than the **XOR** operation and why is that? because if we revisit the truth table of the XOR:
 
@@ -13,7 +13,7 @@ We could solve it using hash-map in **O(n)** it will be good no issue, but I wan
 | 1  | 0  | 1  |
 | 1  | 1  | 0  |
 
-So you can see when you take an XOR with any bit gives **0** but when you take the XOR for two different bits it gives you **1**, and here is the trick we can use the XOR to XOR all our numbers in the list and when we are done it will return only the single number that is does not rebating in the list.
+So you can see when you take an XOR with any bit gives **0** but when you take the XOR for two different bits it gives you **1**, and here is the trick we can use the XOR to XOR all our numbers in the list and when we are done it will return only the single number that does not rebate in the list.
 
 **Example:**
 
@@ -39,7 +39,7 @@ As you can see that is how we made use of the **XOR ^** operation.
   * As you can see we only do one for loop through the whole numbers list so it is linear so it is **O(n)** where **n** is the size of our numbers list.
 
 * Space:
-  * We didn't use any extra space beside our **ans** varible which is **O(1)** so our overall complexity will be **O(1)**.
+  * We didn't use any extra space beside our **ans** variable which is **O(1)** so our overall complexity will be **O(1)**.
 
 
 * **[Solution in Python](Solution.py)**

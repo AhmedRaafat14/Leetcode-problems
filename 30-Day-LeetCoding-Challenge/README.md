@@ -5,3 +5,4 @@
 
   * [Single Number](single-number)
   * [Happy Number](happy-number)
+  * [Maximum Subarray](maximum-subarray)
