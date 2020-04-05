@@ -1,5 +1,8 @@
 # [Happy Number](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3284/)
 
+
+## Approach 1:
+
 #### Solution using [Hash Map](https://medium.com/@dhruvamsharma/how-hashmap-works-a-missing-piece-of-hood-29dd28c4c01e):
 
 

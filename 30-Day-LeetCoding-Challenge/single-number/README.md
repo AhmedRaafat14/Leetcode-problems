@@ -1,5 +1,7 @@
 # [Single Number](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3283/)
 
+## Approach 1:
+
 #### Solution using [bit manipulation](https://www.interviewbit.com/courses/programming/topics/bit-manipulation/):
 
 This problem asks you to find the single (unique) number that exists in a list within a linear time which means **O(n)** with another optional requirement which is without extra memory means space complexity **O(1)**.
