@@ -14,3 +14,4 @@
 * [Week 2: April 8th–April 14th](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/)
 
   * [Middle of the Linked List](middle-of-linked-list)
+  * [Backspace String Compare](backspace-string-compare)
