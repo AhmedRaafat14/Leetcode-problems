@@ -16,3 +16,4 @@
   * [Middle of the Linked List](middle-of-linked-list)
   * [Backspace String Compare](backspace-string-compare)
   * [Min Stack](min-stack)
+  * [Diameter of Binary Tree](diameter-of-binary-tree)
