@@ -17,3 +17,4 @@
   * [Backspace String Compare](backspace-string-compare)
   * [Min Stack](min-stack)
   * [Diameter of Binary Tree](diameter-of-binary-tree)
+  * [Last Stone Weight](last-stone-weight)
