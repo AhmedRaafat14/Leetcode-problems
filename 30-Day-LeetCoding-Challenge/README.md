@@ -18,3 +18,4 @@
   * [Min Stack](min-stack)
   * [Diameter of Binary Tree](diameter-of-binary-tree)
   * [Last Stone Weight](last-stone-weight)
+  * [Contiguous Array](contiguous-array)
