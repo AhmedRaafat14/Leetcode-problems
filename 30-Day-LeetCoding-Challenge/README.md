@@ -19,3 +19,6 @@
   * [Diameter of Binary Tree](diameter-of-binary-tree)
   * [Last Stone Weight](last-stone-weight)
   * [Contiguous Array](contiguous-array)
+  * [Perform String Shifts](perform-string-shifts)
+
+* [Week 3: April 15th–April 21st](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/)
