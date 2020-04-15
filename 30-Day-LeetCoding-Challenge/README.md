@@ -22,3 +22,5 @@
   * [Perform String Shifts](perform-string-shifts)
 
 * [Week 3: April 15th–April 21st](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/)
+
+  * [Product of Array Except Self](product-of-array-except-self)
