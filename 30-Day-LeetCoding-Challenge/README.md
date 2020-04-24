@@ -29,3 +29,6 @@
   * [Minimum Path Sum](minimum-path-sum)
   * [Search in Rotated Sorted Array](search-in-rotated-sorted-array)
   * [Construct Binary Search Tree from Preorder Traversal](construct-binary-search-tree-from-preorder-traversal)
+  * [Leftmost Column with at Least a One](leftmost-column-with-at-least-a-one)
+
+* [Week 4: April 22nd–April 28th](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/531/week-4/)
