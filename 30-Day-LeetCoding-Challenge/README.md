@@ -28,3 +28,4 @@
   * [Number of Islands](number-of-islands)
   * [Minimum Path Sum](minimum-path-sum)
   * [Search in Rotated Sorted Array](search-in-rotated-sorted-array)
+  * [Construct Binary Search Tree from Preorder Traversal](construct-binary-search-tree-from-preorder-traversal)
