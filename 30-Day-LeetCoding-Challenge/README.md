@@ -27,3 +27,4 @@
   * [Valid Parenthesis String](valid-parenthesis-string)
   * [Number of Islands](number-of-islands)
   * [Minimum Path Sum](minimum-path-sum)
+  * [Search in Rotated Sorted Array](search-in-rotated-sorted-array)
